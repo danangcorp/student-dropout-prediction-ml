@@ -1,4 +1,4 @@
-# 🎓 Student Dropout Prediction using Machine Learning
+# 🎓 Student Dropout Prediction using Machine Learning https://student-dropout-prediction-ml-vde6fttyg3jmgckfr87b2b.streamlit.app/
 
 This project predicts the risk of student dropout using machine learning models.
 
